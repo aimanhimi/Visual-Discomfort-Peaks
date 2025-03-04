@@ -156,7 +156,7 @@ We compute Pearson and Spearman correlations between:
 
 ## 9. References
 
-- Penacchio, O., & Wilkins, A. J. (2015). A mechanistic account of visual discomfort. *Proceedings of the Royal Society B: Biological Sciences.*
+- Penacchio, O., & Wilkins, A. J. (2015). Visual discomfort and the spatial distribution of Fourier energy.
 - Parraga, C. A., et al. (Upcoming). "Aesthetics without semantics."
 
 ## 10. License
