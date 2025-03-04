@@ -37,7 +37,8 @@ For each image in the dataset, we:
 
    - For each detected peak:
 
-![image](https://github.com/user-attachments/assets/16fb015f-871e-4a69-aa65-7457d421a733)
+![image](https://github.com/user-attachments/assets/0c33567f-b163-440f-ba09-9ab1c9c9c32e)
+
 
 Where:
 
