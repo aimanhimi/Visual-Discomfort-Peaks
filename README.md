@@ -37,7 +37,7 @@ For each image in the dataset, we:
 
    - For each detected peak:
 
-     \(\text{Metric} = \sum (\text{Amplitude} \times \text{Distance} \times \text{Weight})\)
+![image](https://github.com/user-attachments/assets/16fb015f-871e-4a69-aa65-7457d421a733)
 
 Where:
 
