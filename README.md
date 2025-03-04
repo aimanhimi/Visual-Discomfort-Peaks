@@ -123,17 +123,23 @@ We compute Pearson and Spearman correlations between:
 
 2. Ensure datasets are available in the `ratings/` and `ResultsTables/` directories.
 
-3. Run the main analysis scripts:
+3. Run the main analysis scripts in PeaksMetric Folder or Olivier Residue:
 
    ```matlab
-   % Analyze peaks in the MSC dataset
-   run('scripts/msc_peaks_analysis.m')
+   % To Analyze peaks:
+      Open MATLAB and navigate to the PeaksMetric folder
+      Open script "distpeaks_main.m"
+      Fill the parameters in the bottom section.
+      Run the main script "distpeaks_main.m"
 
-   % Analyze residuals in the MSC dataset
-   run('scripts/msc_residuals_analysis.m')
-
+   %To Analyze residuals: Residuals
+      Navigate to the OlivierMetric
+      Open scripts "main_discomfort.m"
+      Fill the parameters
+      Run the main script
+      
    % Cluster and visualize building discomfort levels
-   run('scripts/buildings_cluster_analysis.m')
+      run('scripts/buildings_cluster_analysis.m')
    ```
 
 ## 7. Conclusions
@@ -144,7 +150,7 @@ We compute Pearson and Spearman correlations between:
 
 ## 8. Contributors
 
-- **Your Name** - Project lead and implementation
+- **Aiman** - Project lead and implementation
 - **Mentorship** - A. Parraga (Computer Vision Center, UAB)
 
 ## 9. References
